@@ -209,6 +209,7 @@ marimo/_lsp/
 __marimo__/
 
 #Terraform
+./terraformdemo/keys/
 ./terraformdemo/keys/*
 
 # Local .terraform directories
