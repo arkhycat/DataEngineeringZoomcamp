@@ -209,8 +209,7 @@ marimo/_lsp/
 __marimo__/
 
 #Terraform
-./terraformdemo/keys/my-creds.json
-*.json
+./terraformdemo/keys/*
 
 # Local .terraform directories
 .terraform/
